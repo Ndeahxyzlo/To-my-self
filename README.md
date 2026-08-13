@@ -1,10 +1,16 @@
 # To-my-self
 This repository its to develop all proyects to help my self in different  situations like when something its botherinh my mind
--Things i wanna do in this repository
+
+-Things i wanna do in this repository:
+
 -Be more organize with my stuff
+
 -Learning about code
+
 -Understanding the code like a science
+
 -Prove my self i can focus if i wanna do something special
+
 -Learn about cibersecurity
 
 
